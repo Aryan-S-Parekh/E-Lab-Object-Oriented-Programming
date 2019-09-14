@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-template <class T>
+template<class T>
 T GetMax(T n1, T n2, T n3)
 {
   if (n1 > n2 && n1 > n3)
