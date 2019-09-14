@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-template <class T>
+template<class T>
 T displayresult(T x, T y)
 {
   cout << x << endl
