@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-template <class T>
+template<class T>
 T Large(T n1, T n2)
 {
   if (n1 > n2)
