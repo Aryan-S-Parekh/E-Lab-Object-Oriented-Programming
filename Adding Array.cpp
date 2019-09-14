@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-template <class T>
+template<class T>
 T sum(T arr[])
 {
   T s;
