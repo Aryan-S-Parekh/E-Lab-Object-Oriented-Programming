@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
-template <typename T>
-void min(T n1, T n2, T n3)
+template<class T>
+T min(T n1, T n2, T n3)
 {
   if (n1 < n2 && n1 < n3)
     cout << n1;
